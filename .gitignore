@@ -7,3 +7,8 @@
 /src/*
 !/src/CMakeLists.txt
 !/src/ndt.cpp
+
+!/data
+/data/*
+!/data/.gitignore
+
